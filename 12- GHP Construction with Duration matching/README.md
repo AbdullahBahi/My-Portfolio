@@ -6,4 +6,5 @@ If you have the assets on hand, you can secure future liabilities by matching th
 
 ## Duration Matching
 The formula to find the weights of GHP portfolio consisting of 2 bonds is:
-$$ w_s = \frac{d_l -d_t}{d_l - d_s} $$ where $w_s$ is the weight in the short duration bond which has duration $d_s$ and the duration of the longer bond is $d_l$. We designate the targeted duration as $d_t$.
+$$ w_s = \frac{d_l -d_t}{d_l - d_s} $$ 
+where $w_s$ is the weight in the short duration bond which has duration $d_s$ and the duration of the longer bond is $d_l$. We designate the targeted duration as $d_t$.
