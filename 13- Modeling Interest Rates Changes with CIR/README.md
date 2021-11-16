@@ -4,4 +4,4 @@ $$ dr_{t}=a(b-r_{t})\,dt+\sigma {\sqrt  {r_{t}}}\,dW_{t} $$
 
 ## Interactive simulation
 The simulation utilizes **ipywidgets** for more interaction.
-![enter image description here](.)
+![enter image description here](https://github.com/AbdullahBahi/My-Portfolio/blob/master/13-%20Modeling%20Interest%20Rates%20Changes%20with%20CIR/0.PNG?raw=true)
