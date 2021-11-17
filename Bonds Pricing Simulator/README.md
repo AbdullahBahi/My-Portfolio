@@ -6,6 +6,6 @@ Bond Pricing is essintial for constructing effictive GHP portfolios for liabilit
 - Zero-Coupon bonds
 - Coupon-Bearing bonds
 
-The simulator utilizes the [CIR Model to simulate interest rate changes](https://github.com/AbdullahBahi/My-Portfolio/tree/master/13-%20Modeling%20Interest%20Rates%20Changes%20with%20CIR)
+The simulator utilizes the [CIR Model to simulate interest rate changes](https://github.com/AbdullahBahi/My-Portfolio/tree/master/Modeling%20Interest%20Rates%20Changes%20with%20CIR)
 
-![ZC Bonds Asset Values](https://github.com/AbdullahBahi/My-Portfolio/blob/master/10-%20Bonds%20Pricing%20Simulator/1.png?raw=true)
+![ZC Bonds Asset Values](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Bonds%20Pricing%20Simulator/1.png?raw=true)

@@ -12,12 +12,12 @@ FX-Manager is a python framework for developing and testing forex algorithmic tr
 ![FX-Manager Block Diagram](https://github.com/AbdullahBahi/fx-manager/blob/main/tutorials/assets/getting_started/1.png?raw=true)
 
 ## Gallery
-![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/1-%20FXM/3.PNG?raw=true)
-![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/1-%20FXM/5.PNG?raw=true)
-![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/1-%20FXM/4.PNG?raw=true)
-![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/1-%20FXM/2.PNG?raw=true)
-![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/1-%20FXM/6.PNG?raw=true)
-![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/1-%20FXM/7.PNG?raw=true)
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/FX-Manager%20Frame%20work/3.PNG?raw=true)
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/FX-Manager%20Frame%20work/5.PNG?raw=true)
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/FX-Manager%20Frame%20work/4.PNG?raw=true)
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/FX-Manager%20Frame%20work/2.PNG?raw=true)
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/FX-Manager%20Frame%20work/6.PNG?raw=true)
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/FX-Manager%20Frame%20work/7.PNG?raw=true)
 
 ## Links
 - [**Package official site**](https://fx-manager.readthedocs.io/en/latest/index.html)

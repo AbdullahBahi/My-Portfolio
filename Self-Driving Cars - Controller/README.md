@@ -25,4 +25,4 @@ The throttle and brake come from the longitudinal speed control and the steering
 ## Simulation in Action
 You can click on the image below and see the simulation running
 
-[![img](?raw=true)](https://youtu.be/SwaFDSyjZF0).
+[![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Controller/0.png?raw=true)](https://youtu.be/SwaFDSyjZF0).

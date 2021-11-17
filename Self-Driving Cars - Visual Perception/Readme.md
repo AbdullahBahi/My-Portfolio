@@ -23,14 +23,14 @@ This project is implemented in Jupyter Notebooks.
 
 ## Gallery 
 
-![img](0)  
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Visual%20Perception/0.PNG?raw=true)  
 
-![img](0)  
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Visual%20Perception/00.PNG?raw=true)  
 
-![img](0)  
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Visual%20Perception/1.PNG?raw=true)  
 
-![img](0)  
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Visual%20Perception/2.PNG?raw=true)  
 
-![img](0)  
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Visual%20Perception/3.PNG?raw=true)  
 
-![img](0)  
+![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-%20Visual%20Perception/4.PNG?raw=true)  

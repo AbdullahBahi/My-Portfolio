@@ -1,5 +1,6 @@
+
 # Self-Driving Cars - Motion Planner
-![0](.)
+![0](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-Motion%20Planner/0.PNG?raw=true)
 
 ## Project Overview
 
@@ -11,18 +12,18 @@ The goal of this project is building a functional motion planning stack that can
 -   Path selection
 -   Velocity profile generation
 
-![1](.)
+![1](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-Motion%20Planner/1.png?raw=true)
 
 ## Gallery
 
-![2](.)  
+![2](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-Motion%20Planner/2.PNG?raw=true)  
 
-![2](.)  
+![3](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-Motion%20Planner/3.png?raw=true)  
 
-![2](.)  
+![4](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-Motion%20Planner/4.png?raw=true)  
 
 ## Simulation in Action
 
 You can click on the image below and see the simulation running
 
-[![img](?raw=true)](https://youtu.be/Adl7bE_Xtp8).
+[![img](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Self-Driving%20Cars%20-Motion%20Planner/5.png?raw=true)](https://youtu.be/Adl7bE_Xtp8).

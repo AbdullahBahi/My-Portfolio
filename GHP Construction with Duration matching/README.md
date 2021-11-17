@@ -7,7 +7,7 @@ If you have the assets on hand, you can secure future liabilities by matching th
 ## Duration Matching
 The formula to find the weights of GHP portfolio consisting of 2 bonds is:  
 <p align="center">
-  <img src="https://github.com/AbdullahBahi/My-Portfolio/blob/master/12-%20GHP%20Construction%20with%20Duration%20matching/0.PNG?raw=true"/>
+  <img src="https://github.com/AbdullahBahi/My-Portfolio/blob/master/GHP%20Construction%20with%20Duration%20matching/0.PNG?raw=true"/>
 </p>  
 
 where w_s is the weight in the short duration bond which has duration d_s and the duration of the longer bond is d_l. We designate the targeted duration as d_t.
