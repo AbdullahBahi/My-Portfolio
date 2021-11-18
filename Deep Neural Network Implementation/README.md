@@ -28,10 +28,10 @@ This repo contains 5 Juputer Notebooks, Let's have a quick look on each one of t
 ### 5. [Building Deep Neural Network using TensorFlow](https://github.com/AbdullahBahi/Deep-Neural-Networks-Implementation-Applications/#5-Building-Deep-Neural-Network-using-TensorFlow)
 
   ## Gallery
-  ![0](https://github.com/AbdullahBahi/My-Portfolio/tree/master/Deep%20Neural%20Network%20Implementation/0.png?raw=true)
-  ![0](https://github.com/AbdullahBahi/My-Portfolio/tree/master/Deep%20Neural%20Network%20Implementation/1.png?raw=true)
-  ![0](https://github.com/AbdullahBahi/My-Portfolio/tree/master/Deep%20Neural%20Network%20Implementation/2.png?raw=true)
-  ![0](https://github.com/AbdullahBahi/My-Portfolio/tree/master/Deep%20Neural%20Network%20Implementation/3.png?raw=true)
+  ![0](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Deep%20Neural%20Network%20Implementation/0.png?raw=true)
+  ![0](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Deep%20Neural%20Network%20Implementation/1.png?raw=true)
+  ![0](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Deep%20Neural%20Network%20Implementation/2.png?raw=true)
+  ![0](https://github.com/AbdullahBahi/My-Portfolio/blob/master/Deep%20Neural%20Network%20Implementation/3.png?raw=true)
   
 ## Project repository
 View source code for this project from [here](https://github.com/AbdullahBahi/Deep-Neural-Networks-Implementation-Applications).
