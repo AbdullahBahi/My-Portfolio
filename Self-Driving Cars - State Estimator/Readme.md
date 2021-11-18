@@ -23,3 +23,6 @@ The project has three parts completed in sequence:
 	After looking at the errors, our task was to determine how to adjust the filter parameters (noise variances) to attempt to compensate for these errors. The filter code itself should remain unchanged. The updated filter (with the new parameter(s)) is tested in the same way as in Part 1.
     
 3.  In Part 3, we explore the effects of sensor dropout, that is, when all external positioning information (from GPS and LIDAR) is lost for a short period of time. For Part 3, we load a different dataset where a portion of the GPS and LIDAR measurements are missing. The goal of Part 3 is to illustrate how the loss of external corrections results in drift in the vehicle position estimate, and also to aid in understanding how the uncertainty in the position estimate changes when sensor measurements are unavailable.
+
+## Project repository
+View source code for this project from [here](https://github.com/AbdullahBahi/Full-Software-Stack-For-Self-Driving-Cars/tree/master/Course_2_Final_Project_State_estimator_ESKF).
